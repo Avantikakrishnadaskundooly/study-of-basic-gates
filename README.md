@@ -76,4 +76,9 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **Result:**
 
+![DE output](https://github.com/user-attachments/assets/dba438c5-d2a7-4f82-b897-fa00b6858c34)
+
+![DE diagram](https://github.com/user-attachments/assets/2d480b2c-05c8-4a9d-9b95-bda84be7909a)
+
+
 
